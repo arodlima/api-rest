@@ -1,0 +1,1 @@
+web: java -jar target/santander-bootcamp-full-stack-0.0.1-SNAPSHOT.jar
